@@ -1,5 +1,5 @@
 # tkinter-python-course
-> My Python files created during the course: _Python GUI development using Tkinter to build desktop applications_. Total lenght of 11 hours.
+> My Python files created during the course: _Python GUI development using Tkinter to build desktop applications_. Total length of 11 hours.
 
 
 ![](certificado.jpg)
